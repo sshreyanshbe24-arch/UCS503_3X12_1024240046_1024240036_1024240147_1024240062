@@ -1,4 +1,4 @@
-Shreyansh's Journal
+Akshin's Journal
 Roll No.: 1024240036
 Name: Akshin Gulati
 
