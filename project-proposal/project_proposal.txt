@@ -1,0 +1,69 @@
+PROJECT PROPOSAL
+
+Project Team Formation Portal
+
+Software Engineering Project
+
+1. Introduction
+
+The Project Team Formation Portal is a web-based platform designed to help college students and teachers form project teams in a structured and efficient way. In many colleges, students currently find teammates through informal conversations, messaging groups, or manual lists. This makes it difficult to identify students with suitable skills and to manage project invitations, join requests, and project requirements. The proposed system centralizes these activities in one platform.
+
+2. Problem Statement
+
+Students often struggle to find suitable teammates for academic projects, especially when a project requires specific technical skills, a minimum CGPA, a particular branch, or a certain year of study. Teachers also need a convenient way to create and supervise projects, approve project proposals, and manage student participation. Existing informal methods do not provide a centralized, searchable, and role-based system for these activities.
+
+3. Objectives
+
+Provide a single platform for students, teachers, and administrators.
+
+Allow students to create detailed profiles containing skills, academic information, GitHub, LinkedIn, resume, certificates, and ratings.
+
+Help students discover suitable teammates and projects using search and filters.
+
+Allow students and teachers to create projects and define eligibility criteria such as skills, CGPA, branch, year, and team size.
+
+Provide join-request and invitation mechanisms for team formation.
+
+Provide communication, calendar, reminders, and project-management support after teams are formed.
+
+Give teachers and administrators dashboards for supervision and system management.
+
+4. Proposed Features
+
+Authentication & User Management: Student, teacher, and admin login; forgot/change password; profile picture; role-based access.
+
+Student Profile & Skills: Basic academic information, skills, skill ratings, certificates, GitHub, LinkedIn, resume, and student rating.
+
+Student & Project Search: Search and filter students by skills and other criteria, and search projects based on domain, skills, eligibility, and availability.
+
+Team Formation: Students can request to join projects, while project leaders and teachers can invite students.
+
+Project Creation: Students and teachers can create projects with descriptions, required skills, team-size limits, deadlines, and eligibility criteria.
+
+Team Chat: Private communication space for members of each project team.
+
+Calendar & Reminders: Meetings, project deadlines, presentations, submissions, and related reminders/notifications.
+
+Teacher Dashboard: Project approval/rejection, project supervision, student/team monitoring, invitations, deadlines, and feedback.
+
+Admin Dashboard: Management of users, teachers, projects, departments, announcements, account status, and system statistics.
+
+Responsive UI & Dark Mode: The platform will work across desktops, tablets, and mobile devices and will support light/dark themes.
+
+5. User Roles
+
+Student: Creates and manages a profile, searches for students and projects, creates or joins projects, sends and receives invitations, participates in team chat, and views project events. Teacher: Creates and supervises projects, approves or rejects projects, invites students, monitors teams, and provides feedback. Admin: Manages users, projects, academic structure, announcements, and overall system activity.
+
+6. Technology Stack
+
+The proposed implementation will use React with JavaScript for the frontend, Node.js with Express.js for the backend, and MySQL for the relational database. REST APIs will connect the frontend and backend. Authentication will use secure password hashing and role-based authorization. Git and GitHub will be used for version control and team collaboration. Python is not required for the core system, but it may be added later if an intelligent team-recommendation feature is implemented.
+
+7. Expected Outcome
+
+The final product will be a functional, responsive web application that provides a centralized environment for project discovery and team formation. It will reduce the difficulty of finding suitable teammates, organize project recruitment, and provide teachers with better visibility into student projects. The system will also demonstrate practical application of software engineering concepts including requirements analysis, database design, role-based access control, API development, testing, and deployment.
+
+8. Development Plan
+
+The project will be completed in five stages: (1) foundation and authentication, (2) student profiles and student recruitment, (3) project creation and team formation, (4) team collaboration and teacher/admin dashboards, and (5) full integration, testing, responsive UI refinement, documentation, and deployment.
+
+Prepared for Software Engineering Project
