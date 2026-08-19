@@ -10,7 +10,8 @@ The Project Team Formation Portal is a web-based platform designed to help colle
 
 2. Problem Statement
 
-Students often struggle to find suitable teammates for academic projects, especially when a project requires specific technical skills, a minimum CGPA, a particular branch, or a certain year of study. Teachers also need a convenient way to create and supervise projects, approve project proposals, and manage student participation. Existing informal methods do not provide a centralized, searchable, and role-based system for these activities.
+Students often struggle to find suitable teammates for academic projects, especially when a project requires specific technical skills, a minimum CGPA, a particular branch, or a certain year of study. 
+Teachers also need a convenient way to create and supervise projects, approve project proposals, and manage student participation. Existing informal methods do not provide a centralized, searchable, and role-based system for these activities.
 
 3. Objectives
 
