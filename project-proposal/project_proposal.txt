@@ -2,6 +2,13 @@ PROJECT PROPOSAL
 
 Project Team Formation Portal
 
+1024240046 Shreyansh
+1024240036 Akshin Gulati
+1024240147 Chandan Bansal
+1024240062 Ayush Shree Sonkar
+
+Submission Date: 19.08.2026
+
 Software Engineering Project UCS503
 
 1. Introduction
