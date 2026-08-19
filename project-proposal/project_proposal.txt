@@ -2,7 +2,7 @@ PROJECT PROPOSAL
 
 Project Team Formation Portal
 
-Software Engineering Project
+Software Engineering Project UCS503
 
 1. Introduction
 
@@ -37,7 +37,9 @@ Responsive UI & Dark Mode: The platform will work across desktops, tablets, and 
 
 5. User Roles
 
-Student: Creates and manages a profile, searches for students and projects, creates or joins projects, sends and receives invitations, participates in team chat, and views project events. Teacher: Creates and supervises projects, approves or rejects projects, invites students, monitors teams, and provides feedback. Admin: Manages users, projects, academic structure, announcements, and overall system activity.
+Student: Creates and manages a profile, searches for students and projects, creates or joins projects, sends and receives invitations, participates in team chat, and views project events. 
+Teacher: Creates and supervises projects, approves or rejects projects, invites students, monitors teams, and provides feedback. 
+Admin: Manages users, projects, academic structure, announcements, and overall system activity.
 
 6. Technology Stack
 
