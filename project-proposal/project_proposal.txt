@@ -61,9 +61,3 @@ The proposed implementation will use React with JavaScript for the frontend, Nod
 7. Expected Outcome
 
 The final product will be a functional, responsive web application that provides a centralized environment for project discovery and team formation. It will reduce the difficulty of finding suitable teammates, organize project recruitment, and provide teachers with better visibility into student projects. The system will also demonstrate practical application of software engineering concepts including requirements analysis, database design, role-based access control, API development, testing, and deployment.
-
-8. Development Plan
-
-The project will be completed in five stages: (1) foundation and authentication, (2) student profiles and student recruitment, (3) project creation and team formation, (4) team collaboration and teacher/admin dashboards, and (5) full integration, testing, responsive UI refinement, documentation, and deployment.
-
-Prepared for Software Engineering Project
